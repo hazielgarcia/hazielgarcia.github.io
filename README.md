@@ -1,6 +1,3 @@
-# hazielgarcia.github.io
-Repo for my personal website
-
 ## Data Scientist
 
 **Technical Skills:** Git, Python, R, SQL
