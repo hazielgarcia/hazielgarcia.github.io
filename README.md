@@ -3,7 +3,7 @@
 #### Technical Skills: Git, Python, R, SQL
 
 ## Education 			        		
-- **B.S., Physics** | Portland State University (_June 2024_)
+- **B.S. Data Science** | Portland State University (_June 2024_)
 
 ### Projects
 Azlheimer's Disease Detection
