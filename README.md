@@ -1,11 +1,9 @@
-## Data Scientist
+# Data Scientist
 
-**Technical Skills:** Git, Python, R, SQL
+#### Technical Skills: Git, Python, R, SQL
 
-## Education
-**Data Science, B.S.**  
-Portland State University (June 2024)  
-Minor in Math and Economics
+## Education 			        		
+- B.S., Physics | Portland State University (_June 2024_)
 
 ### Projects
 Azlheimer's Disease Detection
